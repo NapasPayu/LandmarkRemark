@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/space_normal"
+        android:text="This app needs to access device's location"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/text_normal"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_get_permission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_error"
+        android:layout_centerHorizontal="true"
+        android:text="Get Permission"
+        android:visibility="gone" />
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

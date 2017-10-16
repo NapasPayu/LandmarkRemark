@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Landmark Remark</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="address">Address</string>
+    <string name="note">Note</string>
+    <string name="please_enter_your_note">Please enter your note</string>
+    <string name="add">Add</string>
+    <string name="search_for_note">Search for a note</string>
+    <string name="current_location">Current Location</string>
+    <string name="landmark_added">You have added a landmark</string>
+</resources>
