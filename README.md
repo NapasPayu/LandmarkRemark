@@ -13,8 +13,8 @@ Time spent
 - Authentication : 3hrs
 - Database : 2hrs
 - Map view : 3hrs
-- Handling permission  : 1hrs
-- Handling configuration changes  : 1hrs
+- Handling permission  : 1hr
+- Handling configuration changes  : 1hr
 
 Known issues
 - Runtime permissions
